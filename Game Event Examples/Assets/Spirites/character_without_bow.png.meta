@@ -1,0 +1,1424 @@
+fileFormatVersion: 2
+guid: e6845d34e6cc99240b9b058ee0cbca77
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7954580000319952692
+    second: character_without_bow_0
+  - first:
+      213: -1854900488454840407
+    second: character_without_bow_1
+  - first:
+      213: 521967919577048917
+    second: character_without_bow_2
+  - first:
+      213: 9007840026224214486
+    second: character_without_bow_3
+  - first:
+      213: -7875461530580961179
+    second: character_without_bow_4
+  - first:
+      213: 3173718530000749130
+    second: character_without_bow_5
+  - first:
+      213: 3423252545351162177
+    second: character_without_bow_6
+  - first:
+      213: -8467754959743522371
+    second: character_without_bow_7
+  - first:
+      213: 7436742342677660057
+    second: character_without_bow_8
+  - first:
+      213: -1340095527827766794
+    second: character_without_bow_9
+  - first:
+      213: 427640971197441889
+    second: character_without_bow_10
+  - first:
+      213: -6236949173406058198
+    second: character_without_bow_11
+  - first:
+      213: 3689100593336520068
+    second: character_without_bow_12
+  - first:
+      213: -6653784081246731594
+    second: character_without_bow_13
+  - first:
+      213: 7171212036860685543
+    second: character_without_bow_14
+  - first:
+      213: -9023335656972546774
+    second: character_without_bow_15
+  - first:
+      213: 2848689527062533425
+    second: character_without_bow_16
+  - first:
+      213: 2936747305200415217
+    second: character_without_bow_17
+  - first:
+      213: -4939662259704318797
+    second: character_without_bow_18
+  - first:
+      213: 5223623581895224094
+    second: character_without_bow_19
+  - first:
+      213: -8690631380439572990
+    second: character_without_bow_20
+  - first:
+      213: -415285723368373729
+    second: character_without_bow_21
+  - first:
+      213: 3873587561809240479
+    second: character_without_bow_22
+  - first:
+      213: -3973454080728575200
+    second: character_without_bow_23
+  - first:
+      213: -8472165406359280807
+    second: character_without_bow_24
+  - first:
+      213: 4968912085825303373
+    second: character_without_bow_25
+  - first:
+      213: 1500088690280008894
+    second: character_without_bow_26
+  - first:
+      213: -8437682129290424193
+    second: character_without_bow_27
+  - first:
+      213: -5820003576447626560
+    second: character_without_bow_28
+  - first:
+      213: 6420892342793848294
+    second: character_without_bow_29
+  - first:
+      213: 1107139420635509720
+    second: character_without_bow_30
+  - first:
+      213: -3922329991388374502
+    second: character_without_bow_31
+  - first:
+      213: -6206333320099307407
+    second: character_without_bow_32
+  - first:
+      213: 3224318992128956950
+    second: character_without_bow_33
+  - first:
+      213: 6294296688958718740
+    second: character_without_bow_34
+  - first:
+      213: -7624989084585422362
+    second: character_without_bow_35
+  - first:
+      213: 995857818902059508
+    second: character_without_bow_36
+  - first:
+      213: 845535420579412438
+    second: character_without_bow_37
+  - first:
+      213: -5326219568787213167
+    second: character_without_bow_38
+  - first:
+      213: 3352286268823972244
+    second: character_without_bow_39
+  - first:
+      213: 1216582081730955973
+    second: character_without_bow_40
+  - first:
+      213: -250061967463742579
+    second: character_without_bow_41
+  - first:
+      213: -4511551454674419691
+    second: character_without_bow_42
+  - first:
+      213: 5073182752534946493
+    second: character_without_bow_43
+  - first:
+      213: 6890817160989042227
+    second: character_without_bow_44
+  - first:
+      213: 4091388381652522108
+    second: character_without_bow_45
+  - first:
+      213: -4590396665840730697
+    second: character_without_bow_46
+  - first:
+      213: -1541532006683234004
+    second: character_without_bow_47
+  - first:
+      213: -5055819052164659009
+    second: character_without_bow_48
+  - first:
+      213: 3449338259361367057
+    second: character_without_bow_49
+  - first:
+      213: -5863241432041630656
+    second: character_without_bow_50
+  - first:
+      213: 2358994037801451276
+    second: character_without_bow_51
+  - first:
+      213: 2418336087890999362
+    second: character_without_bow_52
+  - first:
+      213: 2472561217858917572
+    second: character_without_bow_53
+  - first:
+      213: 509194237624318026
+    second: character_without_bow_54
+  - first:
+      213: 4264124449730874139
+    second: character_without_bow_55
+  - first:
+      213: 8040255097904286084
+    second: character_without_bow_56
+  - first:
+      213: 735382848940214111
+    second: character_without_bow_57
+  - first:
+      213: -7671689849150722401
+    second: character_without_bow_58
+  - first:
+      213: 5751529207865195347
+    second: character_without_bow_59
+  - first:
+      213: -5306635830017826706
+    second: character_without_bow_60
+  - first:
+      213: 7382728726769402516
+    second: character_without_bow_61
+  - first:
+      213: 6111330207098352202
+    second: character_without_bow_62
+  - first:
+      213: -3743605794051001856
+    second: character_without_bow_63
+  - first:
+      213: 2013428217141809691
+    second: character_without_bow_64
+  - first:
+      213: -2066869146579034734
+    second: character_without_bow_65
+  - first:
+      213: -3852851576489444822
+    second: character_without_bow_66
+  - first:
+      213: 7216988359167224871
+    second: character_without_bow_67
+  - first:
+      213: 6619848336717962431
+    second: character_without_bow_68
+  - first:
+      213: 6214052701686227373
+    second: character_without_bow_69
+  - first:
+      213: 5564520223131672373
+    second: character_without_bow_70
+  - first:
+      213: -6334637284832753240
+    second: character_without_bow_71
+  - first:
+      213: -4893072278847687981
+    second: character_without_bow_72
+  - first:
+      213: -6332153866517750433
+    second: character_without_bow_73
+  - first:
+      213: 4553828016922258091
+    second: character_without_bow_74
+  - first:
+      213: -1628358842495649892
+    second: character_without_bow_75
+  - first:
+      213: -7802172216360674175
+    second: character_without_bow_76
+  - first:
+      213: 2948633513373658088
+    second: character_without_bow_77
+  - first:
+      213: -2460486412995188960
+    second: character_without_bow_78
+  - first:
+      213: -3066378181720566578
+    second: character_without_bow_79
+  - first:
+      213: -4999738147664668026
+    second: character_without_bow_80
+  - first:
+      213: 2507456002116105686
+    second: character_without_bow_81
+  - first:
+      213: -6696655627030909805
+    second: character_without_bow_82
+  - first:
+      213: 5227567597537764321
+    second: character_without_bow_83
+  - first:
+      213: 4506555508670305760
+    second: character_without_bow_84
+  - first:
+      213: -7477088813797078228
+    second: character_without_bow_85
+  - first:
+      213: -2856090327255770427
+    second: character_without_bow_86
+  - first:
+      213: 3941503385943462571
+    second: character_without_bow_87
+  - first:
+      213: -7484302004234834610
+    second: character_without_bow_88
+  - first:
+      213: -7831092865947626681
+    second: character_without_bow_89
+  - first:
+      213: 4800443508963277314
+    second: character_without_bow_90
+  - first:
+      213: -1086927482444506874
+    second: character_without_bow_91
+  - first:
+      213: 1967804365376893258
+    second: character_without_bow_92
+  - first:
+      213: -4094610773143309962
+    second: character_without_bow_93
+  - first:
+      213: 3462929914771066948
+    second: character_without_bow_94
+  - first:
+      213: 1652845973662589063
+    second: character_without_bow_95
+  - first:
+      213: -3116591454680413449
+    second: character_without_bow_96
+  - first:
+      213: -4947963084401686196
+    second: character_without_bow_97
+  - first:
+      213: 6195751995443634561
+    second: character_without_bow_98
+  - first:
+      213: -8055751834478024502
+    second: character_without_bow_99
+  - first:
+      213: 4252062803622812232
+    second: character_without_bow_100
+  - first:
+      213: 3291208866421121496
+    second: character_without_bow_101
+  - first:
+      213: -1260165663057235844
+    second: character_without_bow_102
+  - first:
+      213: -4014007381237635422
+    second: character_without_bow_103
+  - first:
+      213: 5716989082540701826
+    second: character_without_bow_104
+  - first:
+      213: -4795497404918605755
+    second: character_without_bow_105
+  - first:
+      213: 3434258577794399169
+    second: character_without_bow_106
+  - first:
+      213: -6874750605429008079
+    second: character_without_bow_107
+  - first:
+      213: 5192516484118768960
+    second: character_without_bow_108
+  - first:
+      213: -5172508346497044374
+    second: character_without_bow_109
+  - first:
+      213: -3135759374618087530
+    second: character_without_bow_110
+  - first:
+      213: 2503978356624428587
+    second: character_without_bow_111
+  - first:
+      213: -1634348171369108803
+    second: character_without_bow_112
+  - first:
+      213: 1427160378127287255
+    second: character_without_bow_113
+  - first:
+      213: -7517256654788316732
+    second: character_without_bow_114
+  - first:
+      213: -1284382724587154447
+    second: character_without_bow_115
+  - first:
+      213: 8507735460490358110
+    second: character_without_bow_116
+  - first:
+      213: 7782594325164160760
+    second: character_without_bow_117
+  - first:
+      213: 6286192809929734641
+    second: character_without_bow_118
+  - first:
+      213: -1347923823311935331
+    second: character_without_bow_119
+  - first:
+      213: -3900276849294740695
+    second: character_without_bow_120
+  - first:
+      213: -6194041069069218048
+    second: character_without_bow_121
+  - first:
+      213: -8048833113569394369
+    second: character_without_bow_122
+  - first:
+      213: -5054424038008211513
+    second: character_without_bow_123
+  - first:
+      213: 4500111811564167106
+    second: character_without_bow_124
+  - first:
+      213: 2442757726687968864
+    second: character_without_bow_125
+  - first:
+      213: -1141889757251008007
+    second: character_without_bow_126
+  - first:
+      213: 5380945920565590759
+    second: character_without_bow_127
+  - first:
+      213: 1454058064073751875
+    second: character_without_bow_128
+  - first:
+      213: 7277923187178892648
+    second: character_without_bow_129
+  - first:
+      213: -7905818569375579923
+    second: character_without_bow_130
+  - first:
+      213: 3596215173048310950
+    second: character_without_bow_131
+  - first:
+      213: 1948268934111987840
+    second: character_without_bow_132
+  - first:
+      213: -7121602518622820301
+    second: character_without_bow_133
+  - first:
+      213: 5976142465176790295
+    second: character_without_bow_134
+  - first:
+      213: 1785343752387129632
+    second: character_without_bow_135
+  - first:
+      213: -8909391884038979689
+    second: character_without_bow_136
+  - first:
+      213: -8698460636235729875
+    second: character_without_bow_137
+  - first:
+      213: 3528431665714159398
+    second: character_without_bow_138
+  - first:
+      213: -2509669685432396767
+    second: character_without_bow_139
+  - first:
+      213: 6143277232978610425
+    second: character_without_bow_140
+  - first:
+      213: -249982926666480558
+    second: character_without_bow_141
+  - first:
+      213: 3264574780370340096
+    second: character_without_bow_142
+  - first:
+      213: 3258760635901368191
+    second: character_without_bow_143
+  - first:
+      213: -8644722956641609586
+    second: character_without_bow_144
+  - first:
+      213: -2976188736072615966
+    second: character_without_bow_145
+  - first:
+      213: -1965471663129519777
+    second: character_without_bow_146
+  - first:
+      213: 8662227239221491084
+    second: character_without_bow_147
+  - first:
+      213: -99498243364822583
+    second: character_without_bow_148
+  - first:
+      213: -956190790134153146
+    second: character_without_bow_149
+  - first:
+      213: -8674302839734180370
+    second: character_without_bow_150
+  - first:
+      213: -3399402520012646807
+    second: character_without_bow_151
+  - first:
+      213: -6655591107845200215
+    second: character_without_bow_152
+  - first:
+      213: -1893381055410526221
+    second: character_without_bow_153
+  - first:
+      213: -8487497300209318638
+    second: character_without_bow_154
+  - first:
+      213: -9167149336567279257
+    second: character_without_bow_155
+  - first:
+      213: -5004274003324875649
+    second: character_without_bow_156
+  - first:
+      213: -9189723782176835309
+    second: character_without_bow_157
+  - first:
+      213: 5216854990919689323
+    second: character_without_bow_158
+  - first:
+      213: -630889419620587115
+    second: character_without_bow_159
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_without_bow_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 474
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4375f787d58546e60800000000000000
+      internalID: 7954580000319952692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_without_bow_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 474
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af53fb55d11246e0800000000000000
+      internalID: -1854900488454840407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_without_bow_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 474
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5572a8eae076e3700800000000000000
+      internalID: 521967919577048917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_without_bow_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 474
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1c3ac37c6420d70800000000000000
+      internalID: 9007840026224214486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_without_bow_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 474
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 568b773c67db4b290800000000000000
+      internalID: -7875461530580961179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_without_bow_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 474
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4205cd10305b0c20800000000000000
+      internalID: 3173718530000749130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_without_bow_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 474
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1499b168d06d18f20800000000000000
+      internalID: 3423252545351162177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_without_bow_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 474
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db96f6b6abd7c7a80800000000000000
+      internalID: -8467754959743522371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_without_bow_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 442
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 991886552cd943760800000000000000
+      internalID: 7436742342677660057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_without_bow_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 442
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f18cb2b736076de0800000000000000
+      internalID: -1340095527827766794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_without_bow_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 442
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16760a392394fe500800000000000000
+      internalID: 427640971197441889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_without_bow_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 442
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2937f485c7e179a0800000000000000
+      internalID: -6236949173406058198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_without_bow_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 410
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d8186a171523330800000000000000
+      internalID: 3689100593336520068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_without_bow_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 410
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b2c321a1a209a3a0800000000000000
+      internalID: -6653784081246731594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_without_bow_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 410
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec26125a53458360800000000000000
+      internalID: 7171212036860685543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_without_bow_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 410
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d0905170ca6c280800000000000000
+      internalID: -9023335656972546774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_without_bow_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 378
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13510f72804988720800000000000000
+      internalID: 2848689527062533425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_without_bow_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 378
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f17e815d1c61c820800000000000000
+      internalID: 2936747305200415217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_without_bow_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 378
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4bbe3a85bc27bb0800000000000000
+      internalID: -4939662259704318797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_without_bow_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 378
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1be737c8f90e7840800000000000000
+      internalID: 5223623581895224094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_without_bow_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 346
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e590fedcca46780800000000000000
+      internalID: -8690631380439572990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_without_bow_21
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 346
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f12465ab5db9c3af0800000000000000
+      internalID: -415285723368373729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_without_bow_22
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 346
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f91e2044d5fb1c530800000000000000
+      internalID: 3873587561809240479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_without_bow_23
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 346
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 023d8dad0947bd8c0800000000000000
+      internalID: -3973454080728575200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_without_bow_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 314
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9532a9b4372dc6a80800000000000000
+      internalID: -8472165406359280807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_without_bow_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 314
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4333c3373f15f440800000000000000
+      internalID: 4968912085825303373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_without_bow_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 314
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc88bb47b261d410800000000000000
+      internalID: 1500088690280008894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_without_bow_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 314
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f709bf3eec457ea80800000000000000
+      internalID: -8437682129290424193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_without_bow_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 282
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c2165a35913b3fa0800000000000000
+      internalID: -5820003576447626560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_without_bow_29
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 282
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e5c04101979b1950800000000000000
+      internalID: 6420892342793848294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_without_bow_30
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 282
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3bfcbef695d5f00800000000000000
+      internalID: 1107139420635509720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_without_bow_31
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 282
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a5f6b77a51199c0800000000000000
+      internalID: -3922329991388374502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_without_bow_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 250
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1706fc95abcaed9a0800000000000000
+      internalID: -6206333320099307407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_without_bow_33
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 250
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a54684a051fbc20800000000000000
+      internalID: 3224318992128956950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_without_bow_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 250
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4134d407d75d95750800000000000000
+      internalID: 6294296688958718740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_without_bow_35
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 250
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e11e0593d89e2690800000000000000
+      internalID: -7624989084585422362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_without_bow_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 218
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f9d376f86ff1dd00800000000000000
+      internalID: 995857818902059508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_without_bow_37
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 218
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d975a43cf1fbbb00800000000000000
+      internalID: 845535420579412438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_without_bow_38
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 218
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19434be85877516b0800000000000000
+      internalID: -5326219568787213167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_without_bow_39
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 218
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4992caea996b58e20800000000000000
+      internalID: 3352286268823972244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
